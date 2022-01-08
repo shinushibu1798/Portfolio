@@ -1,9 +1,10 @@
 # Portfolio
-This repository is a portfolio of all the projects that I have worked on. Unless stated otherwise, I have worked on all these projects myself. Feel free to explore! You can contact me through my email, shinu.shibu1798@gmail.com, for any questions or suggestions to improve any of my projects. 
-
-I have a huge passion for anything data science related and am constantly striving to hone my skills.
+This repository is a portfolio of all the projects that I have worked on. Unless stated otherwise, I have worked on all these projects myself. Feel free to explore! 
 
 I am currently working as a Data Analyst as a part of Singtel, one Singapore's largest telecommunications conglomerates.
+
+You can contact me through my email shinu.shibu1798@gmail.com or find me at my linkedin at https://www.linkedin.com/in/ittoop-shinu-shibu/ for any questions regarding any of my projects or to connect! 
+
 
 Project 1:
 For my capstone project
